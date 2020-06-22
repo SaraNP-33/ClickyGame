@@ -4,7 +4,7 @@ import Wrapper from "./components/Wrapper";
 import ScrubsCards from "./components/ScrubsCards";
 import Jumbotron from "./components/Jumbotron";
 import scrubs from './scrubs.json';
-import title from "../images/title.png";
+import title from "./title.png";
 
 
 class App extends Component {
