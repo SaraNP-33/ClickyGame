@@ -8,58 +8,58 @@
     {
       "id": 2,
       "name": "Turk",
-      "image": "https://static.tvtropes.org/pmwiki/pub/images/scrubs_turk_5123.jpg"
+      "image": "./images/turk.png"
       
     },
     {
       "id": 3,
       "name": "Elliot Reid",
-      "image": "https://static.tvtropes.org/pmwiki/pub/images/scrubs_elliot_4536.jpg"
+      "image": "./images/elliot.png"
     },
     {
       "id": 4,
       "name": "Carla Espinoza",
-      "image": "https://static.tvtropes.org/pmwiki/pub/images/scrubs_carla_5541.jpg"
+      "image": "./images/nurseCarla.png"
     },
     {
       "id": 5,
       "name": "Perry Cox",
-      "image": "https://static.tvtropes.org/pmwiki/pub/images/scrubs_cox_1717.jpg"
+      "image": "./images/image.png"
     },
     {
       "id": 6,
       "name": "Bob Kelso",
-      "image": "https://static.tvtropes.org/pmwiki/pub/images/scrubs_kelso_2493.jpg"
+      "image": "./images/kelso.jpg"
     },
     {
       "id": 7,
       "name": "The Janitor",
-      "image": "https://static.tvtropes.org/pmwiki/pub/images/scrubs_janitor_7578.jpg"
+      "image": "./images/janitor.jpg"
     },
     {
       "id": 8,
       "name": "Doug Murphy",
-      "image": "https://vignette.wikia.nocookie.net/scrubs/images/9/97/7x10_Doug_sandwich.jpg/revision/latest/scale-to-width-down/1000?cb=20091127224548"
+      "image": "./images/murphy.png"
     },
     {
       "id": 9,
       "name": "Ted",
-      "image": "https://vignette.wikia.nocookie.net/scrubs/images/3/31/S6-HQ-Ted.jpg/revision/latest/scale-to-width-down/350?cb=20141104111733"
+      "image": "./images/ted.png"
     },
     {
       "id": 10,
       "name": "The Todd",
-      "image": "https://vignette.wikia.nocookie.net/scrubs/images/9/9f/S6-HQ-Todd.jpg/revision/latest/scale-to-width-down/350?cb=20141104111233"
+      "image": "./images/todd.png"
     },
     {
       "id": 11,
       "name": "Jordan",
-      "image": "https://vignette.wikia.nocookie.net/scrubs/images/e/ee/S6-HQ-Jordan.jpg/revision/latest/scale-to-width-down/350?cb=20110406211513"
+      "image": "./images/gordan.png"
     },
     {
       "id": 12,
       "name": "Laverne",
-      "image": "https://vignette.wikia.nocookie.net/scrubs/images/0/00/S6-HQ-Laverne.jpg/revision/latest/scale-to-width-down/350?cb=20141104111013"
+      "image": "./images/laverne.png"
     }
   ]
   

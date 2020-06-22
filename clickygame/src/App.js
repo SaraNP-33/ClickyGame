@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import Container from "./components/Container";
 import Wrapper from "./components/Wrapper";
 import ScrubsCards from "./components/ScrubsCards";
 import Jumbotron from "./components/Jumbotron";
@@ -51,15 +52,16 @@ class App extends Component {
   render(){
     console.log(this.state.clicked)
     return(
-      <div>
+      <>
         
       <Jumbotron>
-      <h1 className="display-4">Scrubs Clicky Game</h1>
+      <img alt="logo" src="../../images/title.png"></img>
       <p className="lead">Don't Click on the Same Image Twice!</p>
       <hr className="my-4"></hr>
       <h3>Score:{this.state.score}</h3>
       <h3>Top Score:{this.state.topScore}</h3>
     </Jumbotron>
+    <Container>
       <Wrapper >
         {this.state.scrubs.map(scrubs=>(
              <ScrubsCards
@@ -72,7 +74,8 @@ class App extends Component {
         ))}
      
       </Wrapper>
-      </div>
+      </Container>
+      </>
     )
   }
 }
