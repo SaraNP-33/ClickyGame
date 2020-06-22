@@ -22,7 +22,7 @@ class App extends Component {
     console.log(id)
     if(this.state.clicked.includes(id)){
       console.log("you lose")
-      alert("You clicked on the same image...you lose")
+      alert("You clicked on the same image...you lose!")
       this.setState({
         clicked: [],
         score:0,
@@ -32,6 +32,7 @@ class App extends Component {
       copy.push(id)
       if(copy.length === 12){
         console.log("you won!")
+        alert("HOORAY!! You have a great memory!")
       }else{
       this.setState({
         clicked: copy,
