@@ -4,6 +4,7 @@ import Wrapper from "./components/Wrapper";
 import ScrubsCards from "./components/ScrubsCards";
 import Jumbotron from "./components/Jumbotron";
 import scrubs from './scrubs.json';
+import title from "../images/title.png";
 
 
 class App extends Component {
@@ -56,7 +57,7 @@ class App extends Component {
       <>
         
       <Jumbotron>
-      <img alt="logo" src={require("./images/title.png")}></img>
+      <img alt="logo" src={title}></img>
       <p className="lead">Don't Click on the Same Image Twice!</p>
       <hr className="my-4"></hr>
       <h3>Score:{this.state.score}</h3>
