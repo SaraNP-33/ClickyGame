@@ -21,6 +21,7 @@ class App extends Component {
     console.log(id)
     if(this.state.clicked.includes(id)){
       console.log("you lose")
+      alert("You Clicked on the same image...you lose")
       this.setState({
         clicked: [],
         score:0,
