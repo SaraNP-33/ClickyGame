@@ -21,7 +21,7 @@ class App extends Component {
     console.log(id)
     if(this.state.clicked.includes(id)){
       console.log("you lose")
-      alert("You Clicked on the same image...you lose")
+      alert("You clicked on the same image...you lose")
       this.setState({
         clicked: [],
         score:0,
@@ -56,7 +56,7 @@ class App extends Component {
       <>
         
       <Jumbotron>
-      <img alt="logo" src="./images/title.png"></img>
+      <img alt="logo" src={require("./images/title.png")}></img>
       <p className="lead">Don't Click on the Same Image Twice!</p>
       <hr className="my-4"></hr>
       <h3>Score:{this.state.score}</h3>
