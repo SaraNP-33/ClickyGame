@@ -56,7 +56,7 @@ class App extends Component {
       <>
         
       <Jumbotron>
-      <img alt="logo" src="../../images/title.png"></img>
+      <img alt="logo" src="./images/title.png"></img>
       <p className="lead">Don't Click on the Same Image Twice!</p>
       <hr className="my-4"></hr>
       <h3>Score:{this.state.score}</h3>
