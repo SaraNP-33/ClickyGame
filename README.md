@@ -56,10 +56,10 @@ ___
 
 # Github Pages Link
 
-![Scrubs Clicky Game](https://saranp-33.github.io/ClickyGame/)
+Scrubs Clicky Game -[Scrubs Clicky Game](https://saranp-33.github.io/ClickyGame/)
 
-#Author
+## Authors
 
-Sara Neves Pereira
+* Sara Neves Pereira
 
 
