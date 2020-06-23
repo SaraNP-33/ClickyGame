@@ -14,6 +14,8 @@ This is a simple game where when the user clicks on an image card, all the image
 
 ![game](./src/game.gif)
 
+_____
+
 ## APP Features
 
 This project was built using React as the front-end generator. In order to generate a new react app the following command line was entered in the node terminal:
@@ -32,9 +34,10 @@ Once this dependency is installed we need to change to package.json to allow the
 
 First we add a homepage to the package.json where we put the github page link to our app. and then we add these two lines to the scripts:
 
+`````
 "predeploy": "npm run build",
 "deploy": "gh-pages -d build"
-
+`````
 Once that is done, this line is ran in the command line:
 
 ```
@@ -43,8 +46,9 @@ npm run deploy
 
 If everything goes well the app is deployed in github in a new branch called gh-pages. 
 
+____
 
-## Built With 
+## Building Tools
 - JSX
 + CSS
 - JavaScript
