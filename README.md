@@ -56,7 +56,7 @@ ___
 
 # Github Pages Link
 
-Scrubs Clicky Game -[Scrubs Clicky Game](https://saranp-33.github.io/ClickyGame/)
+[Scrubs Clicky Game](https://saranp-33.github.io/ClickyGame/)
 
 ## Authors
 
