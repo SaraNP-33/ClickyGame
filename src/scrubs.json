@@ -2,64 +2,64 @@
     {
       "id": 1,
       "name": "J.D.",
-      "image": "./images/jd.png"
+      "image": "/images/jd.png"
       
     },
     {
       "id": 2,
       "name": "Turk",
-      "image": "./images/turk.png"
+      "image": "/images/turk.png"
       
     },
     {
       "id": 3,
       "name": "Elliot Reid",
-      "image": "./images/elliot.png"
+      "image": "/images/elliot.png"
     },
     {
       "id": 4,
       "name": "Carla Espinoza",
-      "image": "./images/nurseCarla.png"
+      "image": "/images/nurseCarla.png"
     },
     {
       "id": 5,
       "name": "Perry Cox",
-      "image": "./images/image.png"
+      "image": "/images/image.png"
     },
     {
       "id": 6,
       "name": "Bob Kelso",
-      "image": "./images/kelso.jpg"
+      "image": "/images/kelso.jpg"
     },
     {
       "id": 7,
       "name": "The Janitor",
-      "image": "./images/janitor.jpg"
+      "image": "/images/janitor.jpg"
     },
     {
       "id": 8,
       "name": "Doug Murphy",
-      "image": "./images/murphy.png"
+      "image": "/images/murphy.png"
     },
     {
       "id": 9,
       "name": "Ted",
-      "image": "./images/ted.png"
+      "image": "/images/ted.png"
     },
     {
       "id": 10,
       "name": "The Todd",
-      "image": "./images/todd.png"
+      "image": "/images/todd.png"
     },
     {
       "id": 11,
       "name": "Jordan",
-      "image": "./images/gordan.png"
+      "image": "/images/gordan.png"
     },
     {
       "id": 12,
       "name": "Laverne",
-      "image": "./images/laverne.png"
+      "image": "/images/laverne.png"
     }
   ]
   

@@ -33,6 +33,12 @@ class App extends Component {
       if(copy.length === 12){
         console.log("you won!")
         alert("HOORAY!! You have a great memory!")
+        this.setState({
+          clicked: [],
+          score:0,
+          topScore:12
+
+        })
       }else{
       this.setState({
         clicked: copy,
